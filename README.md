@@ -1,6 +1,10 @@
 # NLP-Beschwerdeanalyse
 Datenanalyse Projekt von Beschwerden im Bereich US Consumer Finance Complaints von Kaggle (Uni Projekt)
 
+## Dataset
+Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
+Das Datenset muss heruntergeladen werden sowie die ".csv" Datei in den Ordner "data" gelegt werden, bevor die notebooks genutzt werden können.
+
 ## Projektbeschreibung
 Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financial Protection Bureau (CFPB), um zu demonstrieren, wie unstrukturierte Beschwerde-Texte systematisch analysiert werden können. Das Projekt zeigt eine vollständige NLP-Pipeline von der Datenvorverarbeitung bis zur Themenextraktion.
 
