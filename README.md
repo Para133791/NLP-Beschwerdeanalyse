@@ -16,7 +16,7 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 
 ## Benötigte Bibliotheken
 - pandas
-- ntlk
+- nltk
 - scikit-learn
 - gensim
 - spacy
