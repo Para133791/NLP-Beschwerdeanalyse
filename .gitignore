@@ -1,2 +1,7 @@
 # Dataset
 data/consumer_complaints.csv
+.conda/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
