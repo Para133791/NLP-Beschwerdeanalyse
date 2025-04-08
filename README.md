@@ -52,26 +52,19 @@ NLP-Beschwerdeanalyse/
 - seaborn
 - numpy
 
-## Installation
-
-# Repository klonen
+## Repository klonen
 
 ```bash
 git clone https://github.com/Para133791/NLP-Beschwerdeanalyse.git
 cd NLP-Beschwerdeanalyse
 ```
 
-# Conda-Umgebung erstellen (optional):
+## Conda-Umgebung erstellen (optional):
 
 ```bash
 conda create -n nlp_projekt python=3.11
 conda activate nlp_projekt
 pip install -r requirements.txt
-```
-# Jupyter Notebook starten:
-
-```bash
-jupyter notebook
 ```
 
 ## Ergebnisse
