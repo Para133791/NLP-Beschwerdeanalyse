@@ -1,0 +1,10 @@
+pandas
+nltk
+scikit-learn
+gensim
+spacy
+matplotlib
+seaborn
+numpy
+jupyterlab
+notebook
