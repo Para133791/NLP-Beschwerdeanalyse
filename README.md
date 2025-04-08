@@ -53,8 +53,5 @@ pip install -r requirements.txt
 ## Ergebnisse
 Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisiert deren Verteilung. Die detaillierten Ergebnisse sind in den Notebooks und im Results-Ordner zu finden.
 
-## Autor
-Adrian Gashi
-
 ## Lizenz
 Dieses Projekt untersteht der MIT-Lizenz.
