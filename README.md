@@ -36,6 +36,20 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 - seaborn
 - numpy
 
+## Installation
+
+# Repository klonen
+git clone https://github.com/Para133791/NLP-Beschwerdeanalyse.git
+cd NLP-Beschwerdeanalyse
+
+# Virtuelle Umgebung erstellen (empfohlen)
+python -m venv venv
+source venv/bin/activate  # Unter Windows: venv\Scripts\activate
+
+# Abhängigkeiten installieren
+pip install -r requirements.txt
+
+
 ## Ergebnisse
 Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisiert deren Verteilung. Die detaillierten Ergebnisse sind in den Notebooks und im Results-Ordner zu finden.
 
