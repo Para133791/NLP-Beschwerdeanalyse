@@ -51,6 +51,7 @@ NLP-Beschwerdeanalyse/
 - matplotlib
 - seaborn
 - numpy
+- tqdm
 
 ## Repository klonen
 
