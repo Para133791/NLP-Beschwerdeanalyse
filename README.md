@@ -17,20 +17,6 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 
 ## Projektstruktur
 
-NLP-Beschwerdeanalyse/
-├── README.md                 # Projektbeschreibung
-├── konzept.pdf               # Dein Konzeptdokument
-├── data/                     # Datensätze
-├── notebooks/                # Jupyter Notebooks
-│   ├── 1_Datenvorverarbeitung.ipynb
-│   ├── 2_Vektorisierung.ipynb
-│   └── 3_Themenextraktion.ipynb
-├── src/                      # Python-Skripte
-│   ├── preprocessing.py
-│   ├── vectorization.py
-│   └── topic_extraction.py
-└── results/                  # Ergebnisse und Visualisierungen
-
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse
 - `data/`: Rohdaten und vorverarbeitete Datensätze
 - `results/`: Visualisierungen und Ergebnisse der Analyse
