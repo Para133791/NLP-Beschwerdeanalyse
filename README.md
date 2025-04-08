@@ -8,7 +8,29 @@ Das Datenset muss heruntergeladen werden sowie die ".csv" Datei in den Ordner "d
 ## Projektbeschreibung
 Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financial Protection Bureau (CFPB), um zu demonstrieren, wie unstrukturierte Beschwerde-Texte systematisch analysiert werden können. Das Projekt zeigt eine vollständige NLP-Pipeline von der Datenvorverarbeitung bis zur Themenextraktion.
 
+## Projektziele
+
+- Extraktion von häufigen Beschwerdethemen aus einem englischsprachigen Datensatz
+- Anwendung der NLP-Techniken
+- Erstellung wiederverwendbarer Code-Module für Preprocessing und Analyse
+- Visualisierung relevanter Ergebnisse
+
 ## Projektstruktur
+
+NLP-Beschwerdeanalyse/
+├── README.md                 # Projektbeschreibung
+├── konzept.pdf               # Dein Konzeptdokument
+├── data/                     # Datensätze
+├── notebooks/                # Jupyter Notebooks
+│   ├── 1_Datenvorverarbeitung.ipynb
+│   ├── 2_Vektorisierung.ipynb
+│   └── 3_Themenextraktion.ipynb
+├── src/                      # Python-Skripte
+│   ├── preprocessing.py
+│   ├── vectorization.py
+│   └── topic_extraction.py
+└── results/                  # Ergebnisse und Visualisierungen
+
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse
 - `data/`: Rohdaten und vorverarbeitete Datensätze
 - `results/`: Visualisierungen und Ergebnisse der Analyse
@@ -34,3 +56,5 @@ Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisie
 ## Autor
 Adrian Gashi
 
+## Lizenz
+Dieses Projekt untersteht der MIT-Lizenz.
