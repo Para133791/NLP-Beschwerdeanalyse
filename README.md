@@ -66,7 +66,19 @@ cd NLP-Beschwerdeanalyse
 conda create -n nlp_projekt python=3.11
 conda activate nlp_projekt
 pip install -r requirements.txt
+
+# Nur bei Bedarf
+# Unter VSCode auf Mac musste ich mit:
+python -m ipykernel install --user --name nlp_projekt --display-name "Python (nlp_projekt)"
+
+# den Kernel speichern und ihn dann zu finden, danach folgende Schritte durchführen:
 ```
+1.	Starte VS Code neu
+2.	Öffne dein .ipynb-Notebook
+3.	Oben rechts auf den Kernel-Namen klicken
+4.	Wähle: “Python (nlp_projekt)”
+
+
 
 ## Ergebnisse
 Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisiert deren Verteilung. Die detaillierten Ergebnisse sind in den Notebooks und im Results-Ordner zu finden.
