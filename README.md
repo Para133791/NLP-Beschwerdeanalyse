@@ -20,16 +20,11 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 ```
 NLP-Beschwerdeanalyse/
 ├── README.md                 # Projektbeschreibung  
-├── konzept.pdf               # Konzeptdokument mit Zielsetzung und Methodik  
 ├── data/                     # Datensätze (z. B. consumer_complaints.csv)  
-├── notebooks/                # Explorative Analyse in Jupyter Notebooks  
+├── notebooks/                # Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
 │   ├── 2_Vektorisierung.ipynb  
-│   └── 3_Themenextraktion.ipynb  
-├── src/                      # Wiederverwendbare Python-Module  
-│   ├── preprocessing.py      # Funktionen zur Textbereinigung  
-│   ├── vectorization.py      # Vektorisierungsmethoden (z. B. TF-IDF)  
-│   └── topic_extraction.py   # LDA-Topic-Modellierung und Visualisierung  
+│   └── 3_Themenextraktion.ipynb   
 └── results/                  # Ergebnisse, Plots und Themencluster  
 ```
 
@@ -40,7 +35,7 @@ NLP-Beschwerdeanalyse/
 ## Methodik
 - **Datenvorverarbeitung**: Textreinigung, Entfernen von Stoppwörtern, Lemmatisierung
 - **Vektorisierung**: TF-IDF und Word2Vec
-- **Themenextraktion**: Latent Semantic Analysis (LSA)
+- **Themenextraktion**: Latent Semantic Analysis (LSA), Latent Drichilet Allocation (LDA)
 
 ## Benötigte Bibliotheken
 - pandas
