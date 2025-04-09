@@ -24,8 +24,7 @@ NLP-Beschwerdeanalyse/
 ├── notebooks/                # Explorative Analyse in Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
 │   ├── 2_Vektorisierung.ipynb  
-│   └── 3_Themenextraktion.ipynb  
- 
+│   └── 3_Themenextraktion.ipynb   
 └── results/                  # Ergebnisse, Plots und Themencluster  
 ```
 
