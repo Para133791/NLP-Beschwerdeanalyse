@@ -53,15 +53,24 @@ NLP-Beschwerdeanalyse/
    - Visualisierung und Interpretation der extrahierten Themen
 
 ## Benötigte Bibliotheken
-- pandas
-- nltk
-- scikit-learn
-- gensim
-- spacy
-- matplotlib
-- seaborn
-- numpy
-- tqdm
+**Datenverarbeitung und NLP:**
+- **pandas**: Datenverarbeitung und -manipulation
+- **numpy**: Numerische Berechnungen und Arrays
+- **nltk**: Tokenisierung, Stopwörter, Lemmatisierung
+- **spacy**: Fortgeschrittene NLP-Funktionen und Sprachmodelle
+- **re**: Reguläre Ausdrücke für Textbereinigung
+
+**Maschinelles Lernen und Vektorisierung:**
+- **scikit-learn**: TF-IDF, Vektorisierung, Clustering
+- **gensim**: Word2Vec und Topic-Modellierung
+
+**Visualisierung und Ausgabe:**
+- **matplotlib**: Erstellung von Diagrammen und Visualisierungen
+- **seaborn**: Erweiterte statistische Visualisierungen
+
+**Hilfswerkzeuge:**
+- **joblib**: Sichere Modellspeicherung und -ladung
+- **json**: Speicherung von strukturierten Daten
 
 ## Repository klonen
 
