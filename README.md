@@ -20,7 +20,8 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 ```
 NLP-Beschwerdeanalyse/
 ├── README.md                 # Projektbeschreibung  
-├── data/                     # Datensätze (z. B. consumer_complaints.csv)  
+├── data/                     # Datensätze (z. B. consumer_complaints.csv)
+├── models/                   # Gespeicherte Modelle und Vektoren
 ├── notebooks/                # Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
 │   ├── 2_Vektorisierung.ipynb  
@@ -32,10 +33,24 @@ NLP-Beschwerdeanalyse/
 - `data/`: Rohdaten und vorverarbeitete Datensätze
 - `results/`: Visualisierungen und Ergebnisse der Analyse
 
-## Methodik
-- **Datenvorverarbeitung**: Textreinigung, Entfernen von Stoppwörtern, Lemmatisierung
-- **Vektorisierung**: TF-IDF und Word2Vec
-- **Themenextraktion**: Latent Semantic Analysis (LSA), Latent Drichilet Allocation (LDA)
+## Beschreibung der Module
+
+1. **Datenvorverarbeitung**: 
+   - Bereinigung der Rohtexte (Kleinschreibung, Entfernen von Sonderzeichen)
+   - Tokenisierung, Entfernen von Stoppwörtern und Lemmatisierung
+   - Speicherung der vorverarbeiteten Texte für weitere Analysen
+
+2. **Vektorisierung**: 
+   - TF-IDF: Gewichtung relevanter Begriffe basierend auf Häufigkeit und Seltenheit
+   - Bag-of-Words: Worthäufigkeiten für LDA-Themenmodellierung
+   - Word2Vec: Erzeugung semantisch reicher Worteinbettungen
+   - Erstellung von Dokumentenvektoren für weiteres Clustering
+
+3. **Themenextraktion**:
+   - LDA (Latent Dirichlet Allocation): Identifikation von Themen mittels Bag-of-Words
+   - LSA/SVD: Dimensionsreduktion und Themenextraktion aus TF-IDF
+   - K-Means-Clustering: Gruppierung ähnlicher Beschwerden basierend auf Word2Vec
+   - Visualisierung und Interpretation der extrahierten Themen
 
 ## Benötigte Bibliotheken
 - pandas
