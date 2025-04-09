@@ -21,7 +21,7 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 NLP-Beschwerdeanalyse/
 ├── README.md                 # Projektbeschreibung  
 ├── data/                     # Datensätze (z. B. consumer_complaints.csv)  
-├── notebooks/                # Explorative Analyse in Jupyter Notebooks  
+├── notebooks/                # Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
 │   ├── 2_Vektorisierung.ipynb  
 │   └── 3_Themenextraktion.ipynb   
