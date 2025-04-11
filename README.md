@@ -13,7 +13,6 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 
 - Extraktion von häufigen Beschwerdethemen aus einem englischsprachigen Datensatz
 - Anwendung der NLP-Techniken
-- Erstellung wiederverwendbarer Code-Module für Preprocessing und Analyse
 - Visualisierung relevanter Ergebnisse
 
 ## Projektstruktur
