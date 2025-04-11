@@ -30,8 +30,9 @@ NLP-Beschwerdeanalyse/
 ```
 
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse
-- `data/`: Rohdaten und vorverarbeitete Datensätze
+- `data/`: Rohdaten und vorverarbeitete Datensätze | werden lokal gespeichert aufgrund der Größe
 - `results/`: Visualisierungen und Ergebnisse der Analyse
+- `models/`: verarbeitete NLP Modelle | werden lokal gespeichert aufgrund der Größe
 
 ## Beschreibung der Module
 
