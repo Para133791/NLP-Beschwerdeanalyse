@@ -2,7 +2,7 @@
 Datenanalyse Projekt von Beschwerden im Bereich US Consumer Finance Complaints von Kaggle (Uni Projekt)
 
 ## Dataset
-Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints \n
+Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints __
 Das Datenset muss heruntergeladen werden sowie die ".csv" Datei in den Ordner "data" gelegt werden, bevor die notebooks genutzt werden können.
 
 ## Projektbeschreibung
