@@ -43,15 +43,23 @@ NLP-Beschwerdeanalyse/
 - **Themenextraktion**: Latent Semantic Analysis (LSA)
 
 ## Benötigte Bibliotheken
-- pandas
-- nltk
-- scikit-learn
-- gensim
-- spacy
-- matplotlib
-- seaborn
-- numpy
-- tqdm
+
+| Bibliothek     | Beschreibung                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| pandas         | Datenanalyse- und Datenstruktur-Tool für tabellarische Daten.                |
+| nltk           | Natural Language Toolkit für klassische Textverarbeitung und Linguistik.     |
+| scikit-learn   | Bibliothek für maschinelles Lernen und statistische Modellierung.            |
+| gensim         | Topic Modeling und semantische Modellierung mit Word2Vec, LDA usw.           |
+| spacy          | Industrietaugliche NLP-Bibliothek mit Fokus auf Effizienz und Genauigkeit.   |
+| matplotlib     | Grundlegende Bibliothek zum Erstellen von statischen Visualisierungen.       |
+| seaborn        | Erweiterung von matplotlib für ansprechende statistische Visualisierungen.   |
+| numpy          | Grundlage für numerische Berechnungen und Matrizenoperationen in Python.     |
+| jupyterlab     | Web-basierte Entwicklungsumgebung für interaktives Coding und Analyse.       |
+| notebook       | Klassisches Jupyter Notebook-Interface zur interaktiven Codeausführung.      |
+| joblib         | Effizientes Serialisieren und Caching von Modellen und Arrays.               |
+| symspellpy     | Schneller Rechtschreibkorrektur-Algorithmus basierend auf Symmetric Delete.  |
+| pyLDAvis       | Interaktive Visualisierung für Topic-Modeling-Ergebnisse mit LDA.            |
+
 
 ## Repository klonen
 

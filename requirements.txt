@@ -10,3 +10,4 @@ jupyterlab
 notebook
 joblib
 symspellpy
+pyLDAvis
