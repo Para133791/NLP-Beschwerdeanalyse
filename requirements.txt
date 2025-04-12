@@ -11,3 +11,4 @@ notebook
 joblib
 symspellpy
 pyLDAvis
+wordcloud

@@ -59,6 +59,7 @@ NLP-Beschwerdeanalyse/
 | joblib         | Effizientes Serialisieren und Caching von Modellen und Arrays.               |
 | symspellpy     | Schneller Rechtschreibkorrektur-Algorithmus basierend auf Symmetric Delete.  |
 | pyLDAvis       | Interaktive Visualisierung für Topic-Modeling-Ergebnisse mit LDA.            |
+| wordcloud      | Erstellt Wortwolken zur Visualisierung der wichtigsten Begriffe in Daten.    |
 
 
 ## Repository klonen
