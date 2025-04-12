@@ -9,4 +9,4 @@ numpy
 jupyterlab
 notebook
 joblib
-
+symspellpy
