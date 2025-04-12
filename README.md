@@ -103,7 +103,7 @@ python -m ipykernel install --user --name nlp_projekt --display-name "Python (nl
 
 
 ## Ergebnisse
-Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisiert deren Verteilung. Die detaillierten Ergebnisse sind *nach dem ausführen der Notebooks* im Results-Ordner zu finden.
+Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisiert deren Verteilung. Die detaillierten Ergebnisse sind **nach dem ausführen der Notebooks** im Results-Ordner zu finden.
 
 Die finalen Ergebnisse der Analyse befinden sich im Ordner `results/`. Darunter:
 - Visualisierungen der Themenverteilungen
