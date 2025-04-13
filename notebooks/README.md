@@ -71,6 +71,8 @@ cd NLP-Beschwerdeanalyse
 
 ## Conda-Umgebung erstellen (optional):
 
+Mit Anaconda Prompt oder VS-Code im Terminal kann dieser code hier kopiert werden für die Installation.
+
 ```bash
 conda create -n nlp_projekt python=3.11
 conda activate nlp_projekt
