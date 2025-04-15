@@ -100,6 +100,7 @@ python -m ipykernel install --user --name nlp_projekt --display-name "Python (nl
 3.	Oben rechts auf den Kernel-Namen klicken
 4.	Wähle: “Python (nlp_projekt)”
 
+![image](https://github.com/user-attachments/assets/db576346-8c53-4719-8ce0-6fa93cfa3864)
 
 
 ## Ergebnisse
