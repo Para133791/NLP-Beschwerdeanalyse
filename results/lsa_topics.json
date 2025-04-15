@@ -2,621 +2,621 @@
     "topic_1": [
         {
             "word": "credit",
-            "weight": 0.2484388387308938
+            "weight": 0.24745558762497072
         },
         {
             "word": "account",
-            "weight": 0.23244374444857763
+            "weight": 0.23186894348317472
         },
         {
             "word": "payment",
-            "weight": 0.19890417701188598
+            "weight": 0.19866706298202202
         },
         {
             "word": "loan",
-            "weight": 0.16154366100453868
+            "weight": 0.16195393020960497
         },
         {
             "word": "report",
-            "weight": 0.15701781315356228
+            "weight": 0.15649789688010945
         },
         {
             "word": "debt",
-            "weight": 0.14959979493282557
+            "weight": 0.14908124767775346
         },
         {
             "word": "bank",
-            "weight": 0.13696703953512657
+            "weight": 0.13668665856498338
         },
         {
             "word": "would",
-            "weight": 0.12596771071096521
+            "weight": 0.12580919636125842
         },
         {
             "word": "card",
-            "weight": 0.1259608916831333
+            "weight": 0.12545698951794546
         },
         {
             "word": "call",
-            "weight": 0.11928330687984028
+            "weight": 0.11884986095608996
         },
         {
             "word": "company",
-            "weight": 0.1163245137701834
+            "weight": 0.11611999089593379
         },
         {
             "word": "time",
-            "weight": 0.11503336133124564
+            "weight": 0.11480618288631447
         },
         {
             "word": "credit report",
-            "weight": 0.11384961593664672
+            "weight": 0.11360392075241516
         },
         {
             "word": "told",
-            "weight": 0.11010680733781551
+            "weight": 0.10990722729506347
         },
         {
             "word": "mortgage",
-            "weight": 0.10490671583627417
+            "weight": 0.10661701869714725
         }
     ],
     "topic_2": [
         {
             "word": "credit",
-            "weight": 0.38192863514153064
+            "weight": 0.38178655101568515
         },
         {
             "word": "report",
-            "weight": 0.3573840442495127
+            "weight": 0.35654979922722907
         },
         {
             "word": "credit report",
-            "weight": 0.2833809214866408
+            "weight": 0.2831369051167048
         },
         {
             "word": "debt",
-            "weight": 0.18655681895230042
+            "weight": 0.1861150221442973
         },
         {
             "word": "reporting",
-            "weight": 0.132476323180663
+            "weight": 0.13183143158270497
         },
         {
             "word": "collection",
-            "weight": 0.1318696376109337
+            "weight": 0.1316293622398859
         },
         {
             "word": "account",
-            "weight": 0.11632410813571338
+            "weight": 0.11736010837999905
         },
         {
             "word": "agency",
-            "weight": 0.09823299312725761
+            "weight": 0.0982044896012658
         },
         {
             "word": "experian",
-            "weight": 0.09693940827083893
+            "weight": 0.0968338487299893
         },
         {
             "word": "equifax",
-            "weight": 0.09662295721826998
+            "weight": 0.09641227342575004
         },
         {
             "word": "information",
-            "weight": 0.09399597760323498
+            "weight": 0.09401366015659587
         },
         {
             "word": "removed",
-            "weight": 0.08517357627011547
+            "weight": 0.08474730397089147
         },
         {
             "word": "inquiry",
-            "weight": 0.07981269106954869
+            "weight": 0.08000792413496338
         },
         {
             "word": "bureau",
-            "weight": 0.07801480520052965
+            "weight": 0.07866136720106981
         },
         {
             "word": "dispute",
-            "weight": 0.07587068464741512
+            "weight": 0.07590686669320124
         }
     ],
     "topic_3": [
         {
             "word": "debt",
-            "weight": 0.44929894875372506
+            "weight": 0.4476475667057508
         },
         {
             "word": "call",
-            "weight": 0.23039894877716632
+            "weight": 0.22726045282496773
         },
         {
             "word": "collection",
-            "weight": 0.1777798387049381
+            "weight": 0.17773966807979374
         },
         {
             "word": "phone",
-            "weight": 0.13489427685898045
+            "weight": 0.1329234183729688
         },
         {
             "word": "number",
-            "weight": 0.1242927359399936
+            "weight": 0.12210504932044812
         },
         {
             "word": "company",
-            "weight": 0.11430788875263002
+            "weight": 0.11367219246885897
         },
         {
             "word": "calling",
-            "weight": 0.10785499454323823
-        },
-        {
-            "word": "collection agency",
-            "weight": 0.08632485902622133
+            "weight": 0.10671882684922203
         },
         {
             "word": "loan",
-            "weight": 0.08615647003613935
+            "weight": 0.08901955991371678
+        },
+        {
+            "word": "collection agency",
+            "weight": 0.08637412018751212
         },
         {
             "word": "agency",
-            "weight": 0.0857870464349429
+            "weight": 0.08629585857191831
         },
         {
             "word": "collect",
-            "weight": 0.08570892261112084
+            "weight": 0.08539646316428022
         },
         {
             "word": "collector",
-            "weight": 0.0816319313937025
+            "weight": 0.08122857317963048
         },
         {
             "word": "letter",
-            "weight": 0.08001010093733918
+            "weight": 0.08036385758836574
         },
         {
             "word": "owe",
-            "weight": 0.0769055185425882
+            "weight": 0.07676065097807142
         },
         {
             "word": "debt collection",
-            "weight": 0.06831040418695707
+            "weight": 0.06809403609973608
         }
     ],
     "topic_4": [
         {
             "word": "loan",
-            "weight": 0.3914698864340266
+            "weight": 0.3878989344745305
         },
         {
             "word": "mortgage",
-            "weight": 0.24669034203704077
+            "weight": 0.25053632425437267
         },
         {
             "word": "report",
-            "weight": 0.2147832479486443
-        },
-        {
-            "word": "payment",
-            "weight": 0.1804319113297549
+            "weight": 0.21656894338007823
         },
         {
             "word": "credit report",
-            "weight": 0.17618628613711798
+            "weight": 0.17760895136999172
+        },
+        {
+            "word": "payment",
+            "weight": 0.17752801983787028
         },
         {
             "word": "credit",
-            "weight": 0.1504708458069396
+            "weight": 0.1538901966148255
         },
         {
             "word": "modification",
-            "weight": 0.14513004688217415
+            "weight": 0.14526824869872776
         },
         {
             "word": "home",
-            "weight": 0.1033436400950827
+            "weight": 0.10376980308095192
         },
         {
             "word": "reporting",
-            "weight": 0.08684202161891498
+            "weight": 0.08710318462952377
         },
         {
-            "word": "ocwen",
-            "weight": 0.07942378397975346
+            "word": "owen",
+            "weight": 0.07908720074516509
         },
         {
             "word": "loan modification",
-            "weight": 0.07407104726205248
+            "weight": 0.07412362045687447
         },
         {
             "word": "foreclosure",
-            "weight": 0.06662855321502181
+            "weight": 0.06818392486469832
         },
         {
             "word": "inquiry",
-            "weight": 0.06599515738085283
-        },
-        {
-            "word": "rate",
-            "weight": 0.06404721970106822
+            "weight": 0.06645750187599213
         },
         {
             "word": "equifax",
-            "weight": 0.06339770856091506
+            "weight": 0.06364199920256977
+        },
+        {
+            "word": "rate",
+            "weight": 0.06350485034865545
         }
     ],
     "topic_5": [
         {
             "word": "account",
-            "weight": 0.46287895339795826
+            "weight": 0.46196754022990544
         },
         {
             "word": "debt",
-            "weight": 0.21991793773639345
+            "weight": 0.2223374576387862
         },
         {
             "word": "bank",
-            "weight": 0.18461344790355333
+            "weight": 0.18357788816013307
         },
         {
             "word": "collection",
-            "weight": 0.1761678598276472
+            "weight": 0.17667663313960263
         },
         {
             "word": "payment",
-            "weight": 0.09633477125559253
+            "weight": 0.09582755935909677
         },
         {
             "word": "agency",
-            "weight": 0.091110967594537
+            "weight": 0.09235392295611697
         },
         {
             "word": "fee",
-            "weight": 0.08917728745069296
+            "weight": 0.08755252724184645
         },
         {
             "word": "check",
-            "weight": 0.08408864038059313
+            "weight": 0.08604109672274236
         },
         {
             "word": "collection agency",
-            "weight": 0.08151174749139181
+            "weight": 0.08176711117090622
         },
         {
             "word": "bank america",
-            "weight": 0.07553817070671129
-        },
-        {
-            "word": "america",
-            "weight": 0.07522047461763454
+            "weight": 0.0760473396893846
         },
         {
             "word": "reporting",
-            "weight": 0.07309499920849843
+            "weight": 0.07604718572424643
+        },
+        {
+            "word": "america",
+            "weight": 0.07573630850580923
         },
         {
             "word": "letter",
-            "weight": 0.0693488980559625
+            "weight": 0.0676084825608824
         },
         {
             "word": "overdraft",
-            "weight": 0.06555940829762476
+            "weight": 0.06539676799014693
         },
         {
             "word": "amount",
-            "weight": 0.06271858097298735
+            "weight": 0.06208325187739379
         }
     ],
     "topic_6": [
         {
             "word": "payment",
-            "weight": 0.44943834127621424
+            "weight": 0.45164718450769675
         },
         {
             "word": "debt",
-            "weight": 0.2059706555366659
+            "weight": 0.2028733371994089
         },
         {
             "word": "late",
-            "weight": 0.19550029542870886
-        },
-        {
-            "word": "card",
-            "weight": 0.14964202443427196
+            "weight": 0.1945188657310846
         },
         {
             "word": "paid",
-            "weight": 0.14923072145112795
+            "weight": 0.14876182650515632
+        },
+        {
+            "word": "card",
+            "weight": 0.14733214332474076
         },
         {
             "word": "collection",
-            "weight": 0.13990206084876666
+            "weight": 0.13936857444287562
         },
         {
             "word": "balance",
-            "weight": 0.11953776888400036
+            "weight": 0.11997144529270828
         },
         {
             "word": "fee",
-            "weight": 0.11556311168721228
+            "weight": 0.11318399882549639
         },
         {
             "word": "bill",
-            "weight": 0.11481283791264987
+            "weight": 0.11288091255947919
         },
         {
             "word": "interest",
-            "weight": 0.10896878369410758
+            "weight": 0.11125353736306079
         },
         {
             "word": "credit card",
-            "weight": 0.10807843975986799
+            "weight": 0.1073852045626339
         },
         {
             "word": "month",
-            "weight": 0.10178796197483951
+            "weight": 0.10268311748939998
         },
         {
             "word": "late fee",
-            "weight": 0.1013731315411108
+            "weight": 0.1006507346160802
         },
         {
             "word": "pay",
-            "weight": 0.09945189908373489
+            "weight": 0.09899277500168674
         },
         {
             "word": "due",
-            "weight": 0.08807402929167793
+            "weight": 0.08838628364181575
         }
     ],
     "topic_7": [
         {
             "word": "debt",
-            "weight": 0.37675542875610724
+            "weight": 0.37599129762687006
         },
         {
             "word": "card",
-            "weight": 0.3688226550521354
+            "weight": 0.3738663463537853
         },
         {
             "word": "credit card",
-            "weight": 0.21892212912156037
+            "weight": 0.22161892286166157
         },
         {
             "word": "fargo",
-            "weight": 0.1546731526722837
+            "weight": 0.1593285014680113
         },
         {
             "word": "well fargo",
-            "weight": 0.15293984975244165
+            "weight": 0.15779207608672563
         },
         {
             "word": "bank",
-            "weight": 0.14394076708131176
-        },
-        {
-            "word": "loan",
-            "weight": 0.12178899929462814
+            "weight": 0.14369323745352572
         },
         {
             "word": "well",
-            "weight": 0.12101471270341095
+            "weight": 0.125061390154577
+        },
+        {
+            "word": "loan",
+            "weight": 0.11507115589650896
         },
         {
             "word": "america",
-            "weight": 0.10325039241469967
+            "weight": 0.10016999269093733
         },
         {
             "word": "bank america",
-            "weight": 0.10141390060889756
+            "weight": 0.09844551125026635
         },
         {
             "word": "credit",
-            "weight": 0.08622283483423644
-        },
-        {
-            "word": "interest",
-            "weight": 0.08563322657692818
+            "weight": 0.0869975728085787
         },
         {
             "word": "collection",
-            "weight": 0.08143442931190414
+            "weight": 0.08585239097605128
+        },
+        {
+            "word": "interest",
+            "weight": 0.0805420539065812
         },
         {
             "word": "modification",
-            "weight": 0.07459427956028879
+            "weight": 0.07472312924099965
         },
         {
             "word": "home",
-            "weight": 0.07342341855695249
+            "weight": 0.07355493730591356
         }
     ],
     "topic_8": [
         {
             "word": "fargo",
-            "weight": 0.5269211256569429
+            "weight": 0.5258589160159378
         },
         {
             "word": "well fargo",
-            "weight": 0.5218584054065089
+            "weight": 0.522019296111394
         },
         {
             "word": "well",
-            "weight": 0.4206385274110389
+            "weight": 0.419658158372346
         },
         {
             "word": "payment",
-            "weight": 0.10766297495351533
+            "weight": 0.11714169748430972
         },
         {
             "word": "late",
-            "weight": 0.06786791147322851
+            "weight": 0.06795336142809087
         },
         {
             "word": "fargo bank",
-            "weight": 0.05575345344483297
+            "weight": 0.055130153346879596
         },
         {
             "word": "call",
-            "weight": 0.03891958281869987
-        },
-        {
-            "word": "account",
-            "weight": 0.03809551424022819
-        },
-        {
-            "word": "fargo home",
-            "weight": 0.033345633317517887
-        },
-        {
-            "word": "late fee",
-            "weight": 0.0319585661886338
+            "weight": 0.04565701944466856
         },
         {
             "word": "bill",
-            "weight": 0.030615710163965967
+            "weight": 0.031364498322531416
         },
         {
-            "word": "late payment",
-            "weight": 0.02592859896516343
+            "word": "late fee",
+            "weight": 0.03120147928891841
+        },
+        {
+            "word": "account",
+            "weight": 0.0311704191841937
         },
         {
             "word": "phone",
-            "weight": 0.025909666601951337
+            "weight": 0.027770305830849957
+        },
+        {
+            "word": "late payment",
+            "weight": 0.026577000335291937
         },
         {
             "word": "home mortgage",
-            "weight": 0.023969675990714142
+            "weight": 0.02565483171881762
         },
         {
             "word": "day",
-            "weight": 0.022698351729023302
+            "weight": 0.023633037515291597
+        },
+        {
+            "word": "due",
+            "weight": 0.021692163959619176
         }
     ],
     "topic_9": [
         {
             "word": "loan",
-            "weight": 0.5537315555899276
+            "weight": 0.5675969370789837
         },
         {
             "word": "account",
-            "weight": 0.30724161400739675
+            "weight": 0.26761865124153383
         },
         {
             "word": "student",
-            "weight": 0.15374043516710123
+            "weight": 0.16361869930000214
         },
         {
             "word": "student loan",
-            "weight": 0.13450928657822117
+            "weight": 0.14335894539852762
         },
         {
             "word": "interest",
-            "weight": 0.1291631674879274
-        },
-        {
-            "word": "rate",
-            "weight": 0.10010608096276362
-        },
-        {
-            "word": "balance",
-            "weight": 0.08133558792271613
-        },
-        {
-            "word": "paid",
-            "weight": 0.07778967390648035
-        },
-        {
-            "word": "interest rate",
-            "weight": 0.0709675902965837
-        },
-        {
-            "word": "closed",
-            "weight": 0.07060488192766995
+            "weight": 0.11180848949116524
         },
         {
             "word": "collection",
-            "weight": 0.06934323146065498
+            "weight": 0.08609970786662402
+        },
+        {
+            "word": "rate",
+            "weight": 0.08313741990093808
+        },
+        {
+            "word": "paid",
+            "weight": 0.07046996975018024
         },
         {
             "word": "private",
-            "weight": 0.06516933111876305
+            "weight": 0.06895432544821875
         },
         {
             "word": "school",
-            "weight": 0.06446906519599306
+            "weight": 0.06746442753353873
         },
         {
             "word": "navient",
-            "weight": 0.06396694520683004
+            "weight": 0.06687894711387121
+        },
+        {
+            "word": "balance",
+            "weight": 0.06603413169277597
         },
         {
             "word": "pay",
-            "weight": 0.06372272322610818
+            "weight": 0.06319101579110066
+        },
+        {
+            "word": "interest rate",
+            "weight": 0.061174128544447474
+        },
+        {
+            "word": "closed",
+            "weight": 0.061026509307886875
         }
     ],
     "topic_10": [
         {
             "word": "bank",
-            "weight": 0.37347025994361843
+            "weight": 0.3886663176149869
         },
         {
             "word": "america",
-            "weight": 0.26120809422696745
+            "weight": 0.2757251211553108
         },
         {
             "word": "bank america",
-            "weight": 0.2595165661541728
+            "weight": 0.2744487065322811
         },
         {
             "word": "credit report",
-            "weight": 0.23072696703219658
+            "weight": 0.23731827338230607
         },
         {
             "word": "report",
-            "weight": 0.22367474666025447
+            "weight": 0.23059839505655136
         },
         {
             "word": "debt",
-            "weight": 0.16781615466267835
-        },
-        {
-            "word": "credit",
-            "weight": 0.13626991574941666
-        },
-        {
-            "word": "fee",
-            "weight": 0.13540524113103553
+            "weight": 0.1628098674570429
         },
         {
             "word": "check",
-            "weight": 0.1291561610162808
+            "weight": 0.13243335734782677
         },
         {
-            "word": "fargo",
-            "weight": 0.11960895094103803
-        },
-        {
-            "word": "well fargo",
-            "weight": 0.1180529651890616
+            "word": "credit",
+            "weight": 0.13007214583354693
         },
         {
             "word": "payment",
-            "weight": 0.09818416159086041
+            "weight": 0.11611795190878921
         },
         {
-            "word": "call",
-            "weight": 0.09499333279253745
+            "word": "fee",
+            "weight": 0.11607893549708917
+        },
+        {
+            "word": "fargo",
+            "weight": 0.11605155173672037
+        },
+        {
+            "word": "well fargo",
+            "weight": 0.11500872739913462
         },
         {
             "word": "well",
-            "weight": 0.08998712986101808
+            "weight": 0.0876684607004055
         },
         {
-            "word": "inquiry",
-            "weight": 0.08902819238591964
+            "word": "late",
+            "weight": 0.07871957959230515
+        },
+        {
+            "word": "call",
+            "weight": 0.0784272447607572
         }
     ]
 }
