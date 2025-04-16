@@ -25,12 +25,8 @@ NLP-Beschwerdeanalyse/
 ├── notebooks/                # Explorative Analyse in Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
 │   ├── 2_Vektorisierung.ipynb  
-│   └── 3_Themenextraktion.ipynb  
-├── src/                      # Wiederverwendbare Python-Module  
-│   ├── preprocessing.py      # Funktionen zur Textbereinigung  
-│   ├── vectorization.py      # Vektorisierungsmethoden (z. B. TF-IDF)  
-│   └── topic_extraction.py   # LDA-Topic-Modellierung und Visualisierung  
-└── results/                  # Ergebnisse, Plots und Themencluster  
+│   └── 3_Themenextraktion.ipynb   
+└── results/                  # Ergebnisse und Themencluster  
 ```
 
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse

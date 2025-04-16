@@ -1,0 +1,622 @@
+{
+    "topic_1": [
+        {
+            "word": "credit",
+            "weight": 62878.17797734363
+        },
+        {
+            "word": "report",
+            "weight": 37613.20418470221
+        },
+        {
+            "word": "account",
+            "weight": 23092.22447289034
+        },
+        {
+            "word": "credit report",
+            "weight": 22314.141826539428
+        },
+        {
+            "word": "reporting",
+            "weight": 14239.010628544196
+        },
+        {
+            "word": "information",
+            "weight": 10538.702225233068
+        },
+        {
+            "word": "bureau",
+            "weight": 8225.687277213814
+        },
+        {
+            "word": "reported",
+            "weight": 6924.229306747375
+        },
+        {
+            "word": "removed",
+            "weight": 6732.923251612812
+        },
+        {
+            "word": "dispute",
+            "weight": 6639.406890422278
+        },
+        {
+            "word": "credit bureau",
+            "weight": 6386.396987994346
+        },
+        {
+            "word": "score",
+            "weight": 6382.747493239909
+        },
+        {
+            "word": "experian",
+            "weight": 6359.415687130441
+        },
+        {
+            "word": "agency",
+            "weight": 5932.92923090322
+        },
+        {
+            "word": "equifax",
+            "weight": 5905.284543392126
+        }
+    ],
+    "topic_2": [
+        {
+            "word": "payment",
+            "weight": 47325.75968821589
+        },
+        {
+            "word": "late",
+            "weight": 15201.3818420331
+        },
+        {
+            "word": "paid",
+            "weight": 13518.492788467955
+        },
+        {
+            "word": "fee",
+            "weight": 13312.074138255222
+        },
+        {
+            "word": "balance",
+            "weight": 12090.906406287313
+        },
+        {
+            "word": "account",
+            "weight": 11793.285388693608
+        },
+        {
+            "word": "due",
+            "weight": 11441.308546529792
+        },
+        {
+            "word": "month",
+            "weight": 10881.087575825646
+        },
+        {
+            "word": "amount",
+            "weight": 9679.242741871145
+        },
+        {
+            "word": "statement",
+            "weight": 8792.20587233448
+        },
+        {
+            "word": "made",
+            "weight": 8383.398552639623
+        },
+        {
+            "word": "pay",
+            "weight": 8326.525786650916
+        },
+        {
+            "word": "charge",
+            "weight": 6853.384688931
+        },
+        {
+            "word": "bill",
+            "weight": 6515.075394515178
+        },
+        {
+            "word": "day",
+            "weight": 6179.20083302757
+        }
+    ],
+    "topic_3": [
+        {
+            "word": "well",
+            "weight": 12390.136132282698
+        },
+        {
+            "word": "fargo",
+            "weight": 9216.81631075234
+        },
+        {
+            "word": "well fargo",
+            "weight": 9111.86654961439
+        },
+        {
+            "word": "home",
+            "weight": 4038.9040390604346
+        },
+        {
+            "word": "closing",
+            "weight": 3412.3223228810957
+        },
+        {
+            "word": "appraisal",
+            "weight": 2483.078892778367
+        },
+        {
+            "word": "sale",
+            "weight": 2085.2822808186243
+        },
+        {
+            "word": "property",
+            "weight": 2037.9987476692847
+        },
+        {
+            "word": "offer",
+            "weight": 2012.150527456493
+        },
+        {
+            "word": "contract",
+            "weight": 1950.458936955952
+        },
+        {
+            "word": "loan",
+            "weight": 1820.9809301775856
+        },
+        {
+            "word": "value",
+            "weight": 1727.1249036506194
+        },
+        {
+            "word": "buyer",
+            "weight": 1682.891806026122
+        },
+        {
+            "word": "new",
+            "weight": 1583.7607213382803
+        },
+        {
+            "word": "ditch",
+            "weight": 1552.6866823038677
+        }
+    ],
+    "topic_4": [
+        {
+            "word": "would",
+            "weight": 23141.58823022406
+        },
+        {
+            "word": "get",
+            "weight": 21251.072025502635
+        },
+        {
+            "word": "told",
+            "weight": 19024.35702816685
+        },
+        {
+            "word": "time",
+            "weight": 15233.445785255186
+        },
+        {
+            "word": "said",
+            "weight": 13418.489261434637
+        },
+        {
+            "word": "money",
+            "weight": 13303.171968559285
+        },
+        {
+            "word": "could",
+            "weight": 12793.267452212733
+        },
+        {
+            "word": "back",
+            "weight": 12525.578574424851
+        },
+        {
+            "word": "help",
+            "weight": 10998.09652528581
+        },
+        {
+            "word": "year",
+            "weight": 10857.321017572342
+        },
+        {
+            "word": "pay",
+            "weight": 10572.89474007131
+        },
+        {
+            "word": "know",
+            "weight": 8381.860540974836
+        },
+        {
+            "word": "month",
+            "weight": 8324.180272556045
+        },
+        {
+            "word": "called",
+            "weight": 8104.236798486973
+        },
+        {
+            "word": "never",
+            "weight": 7317.656497740922
+        }
+    ],
+    "topic_5": [
+        {
+            "word": "debt",
+            "weight": 33097.23310463995
+        },
+        {
+            "word": "letter",
+            "weight": 15964.478835633721
+        },
+        {
+            "word": "collection",
+            "weight": 15393.792372464239
+        },
+        {
+            "word": "sent",
+            "weight": 9530.580425979308
+        },
+        {
+            "word": "received",
+            "weight": 7569.260341430235
+        },
+        {
+            "word": "agency",
+            "weight": 7212.82318163132
+        },
+        {
+            "word": "company",
+            "weight": 5629.910576308254
+        },
+        {
+            "word": "collection agency",
+            "weight": 5407.7156065309155
+        },
+        {
+            "word": "account",
+            "weight": 4817.061822663194
+        },
+        {
+            "word": "owe",
+            "weight": 4802.964725380819
+        },
+        {
+            "word": "never",
+            "weight": 4534.565448104541
+        },
+        {
+            "word": "collect",
+            "weight": 4499.263524779258
+        },
+        {
+            "word": "court",
+            "weight": 4182.043580511328
+        },
+        {
+            "word": "original",
+            "weight": 3593.007231307591
+        },
+        {
+            "word": "proof",
+            "weight": 3402.553619815209
+        }
+    ],
+    "topic_6": [
+        {
+            "word": "call",
+            "weight": 33105.80606955826
+        },
+        {
+            "word": "phone",
+            "weight": 19291.517804001338
+        },
+        {
+            "word": "called",
+            "weight": 15915.137885079203
+        },
+        {
+            "word": "number",
+            "weight": 15600.090794757365
+        },
+        {
+            "word": "told",
+            "weight": 11331.444992616807
+        },
+        {
+            "word": "company",
+            "weight": 8586.334608982257
+        },
+        {
+            "word": "asked",
+            "weight": 8398.150437770131
+        },
+        {
+            "word": "time",
+            "weight": 7867.176885129717
+        },
+        {
+            "word": "received",
+            "weight": 7586.138383422865
+        },
+        {
+            "word": "would",
+            "weight": 6900.666896467203
+        },
+        {
+            "word": "said",
+            "weight": 6762.885727361797
+        },
+        {
+            "word": "information",
+            "weight": 6315.86966905867
+        },
+        {
+            "word": "calling",
+            "weight": 6312.287559110566
+        },
+        {
+            "word": "back",
+            "weight": 5960.319225099511
+        },
+        {
+            "word": "day",
+            "weight": 5633.740201765741
+        }
+    ],
+    "topic_7": [
+        {
+            "word": "loan",
+            "weight": 32077.071715974005
+        },
+        {
+            "word": "payment",
+            "weight": 18282.94412174568
+        },
+        {
+            "word": "interest",
+            "weight": 8230.592188210065
+        },
+        {
+            "word": "rate",
+            "weight": 7058.375480149331
+        },
+        {
+            "word": "month",
+            "weight": 5321.393439299002
+        },
+        {
+            "word": "car",
+            "weight": 5097.211911174268
+        },
+        {
+            "word": "one",
+            "weight": 4623.344202847131
+        },
+        {
+            "word": "pay",
+            "weight": 4371.99683678749
+        },
+        {
+            "word": "capital",
+            "weight": 3915.532707317063
+        },
+        {
+            "word": "interest rate",
+            "weight": 3799.391316755963
+        },
+        {
+            "word": "make",
+            "weight": 3743.3960012853727
+        },
+        {
+            "word": "vehicle",
+            "weight": 3689.082919462956
+        },
+        {
+            "word": "student",
+            "weight": 3669.7499975269084
+        },
+        {
+            "word": "year",
+            "weight": 3556.2336958082583
+        },
+        {
+            "word": "owen",
+            "weight": 3484.3432892748324
+        }
+    ],
+    "topic_8": [
+        {
+            "word": "information",
+            "weight": 11668.939271055688
+        },
+        {
+            "word": "complaint",
+            "weight": 8630.367148710875
+        },
+        {
+            "word": "consumer",
+            "weight": 7411.382271608527
+        },
+        {
+            "word": "request",
+            "weight": 6450.9861493628605
+        },
+        {
+            "word": "provide",
+            "weight": 5702.706468953357
+        },
+        {
+            "word": "law",
+            "weight": 4676.8150166583255
+        },
+        {
+            "word": "state",
+            "weight": 4519.635906360932
+        },
+        {
+            "word": "provided",
+            "weight": 4461.943899742017
+        },
+        {
+            "word": "document",
+            "weight": 4449.776337588051
+        },
+        {
+            "word": "act",
+            "weight": 4283.691005232073
+        },
+        {
+            "word": "case",
+            "weight": 4195.3189215455695
+        },
+        {
+            "word": "cfpb",
+            "weight": 3915.730668617443
+        },
+        {
+            "word": "number",
+            "weight": 3636.0472343663596
+        },
+        {
+            "word": "copy",
+            "weight": 3629.545361676908
+        },
+        {
+            "word": "security",
+            "weight": 3626.6288867977955
+        }
+    ],
+    "topic_9": [
+        {
+            "word": "account",
+            "weight": 45910.68173870026
+        },
+        {
+            "word": "card",
+            "weight": 34319.24377723786
+        },
+        {
+            "word": "bank",
+            "weight": 32464.77520787697
+        },
+        {
+            "word": "credit",
+            "weight": 17116.800886723984
+        },
+        {
+            "word": "credit card",
+            "weight": 14696.690087758963
+        },
+        {
+            "word": "check",
+            "weight": 12273.616237309501
+        },
+        {
+            "word": "charge",
+            "weight": 9456.140488753928
+        },
+        {
+            "word": "customer",
+            "weight": 7514.606942737275
+        },
+        {
+            "word": "fee",
+            "weight": 7448.550421481391
+        },
+        {
+            "word": "fund",
+            "weight": 6849.516897423504
+        },
+        {
+            "word": "money",
+            "weight": 6603.955616510405
+        },
+        {
+            "word": "transaction",
+            "weight": 6057.359993009366
+        },
+        {
+            "word": "service",
+            "weight": 5710.86606393028
+        },
+        {
+            "word": "chase",
+            "weight": 5276.274611438604
+        },
+        {
+            "word": "checking",
+            "weight": 5175.142048834896
+        }
+    ],
+    "topic_10": [
+        {
+            "word": "mortgage",
+            "weight": 32173.03213548526
+        },
+        {
+            "word": "loan",
+            "weight": 19861.17532256164
+        },
+        {
+            "word": "home",
+            "weight": 11992.968048736786
+        },
+        {
+            "word": "modification",
+            "weight": 11654.841550713913
+        },
+        {
+            "word": "bank",
+            "weight": 10366.246287169039
+        },
+        {
+            "word": "foreclosure",
+            "weight": 7238.64665945811
+        },
+        {
+            "word": "property",
+            "weight": 6828.765043048059
+        },
+        {
+            "word": "tax",
+            "weight": 6071.034272167325
+        },
+        {
+            "word": "escrow",
+            "weight": 5913.009795047926
+        },
+        {
+            "word": "letter",
+            "weight": 5777.79629514519
+        },
+        {
+            "word": "document",
+            "weight": 5712.337497571185
+        },
+        {
+            "word": "insurance",
+            "weight": 5665.79298105887
+        },
+        {
+            "word": "sale",
+            "weight": 5059.131476156427
+        },
+        {
+            "word": "received",
+            "weight": 4987.642963633138
+        },
+        {
+            "word": "loan modification",
+            "weight": 4472.2200606669285
+        }
+    ]
+}

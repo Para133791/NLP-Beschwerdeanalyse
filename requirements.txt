@@ -10,5 +10,4 @@ jupyterlab
 notebook
 joblib
 symspellpy
-pyLDAvis
 wordcloud
