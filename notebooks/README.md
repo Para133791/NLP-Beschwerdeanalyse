@@ -54,7 +54,6 @@ NLP-Beschwerdeanalyse/
 | notebook       | Klassisches Jupyter Notebook-Interface zur interaktiven Codeausführung.      |
 | joblib         | Effizientes Serialisieren und Caching von Modellen und Arrays.               |
 | symspellpy     | Schneller Rechtschreibkorrektur-Algorithmus basierend auf Symmetric Delete.  |
-| pyLDAvis       | Interaktive Visualisierung für Topic-Modeling-Ergebnisse mit LDA.            |
 | wordcloud      | Erstellt Wortwolken zur Visualisierung der wichtigsten Begriffe in Daten.    |
 
 
@@ -92,7 +91,6 @@ Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisie
 
 Die finalen Ergebnisse der Analyse befinden sich im Ordner `results/`. Darunter:
 - Visualisierungen der Themenverteilungen
-- Interaktive LDA-Visualisierung via pyLDAvis
 - Auswertung häufiger Schlagwörter und Themencluster
 
 ## Lizenz
