@@ -2,8 +2,7 @@
 Datenanalyse Projekt von Beschwerden im Bereich US Consumer Finance Complaints von Kaggle (Uni Projekt)
 
 ## Dataset
-Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints  
-
+Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
 Das Datenset muss heruntergeladen werden sowie die ".csv" Datei in den Ordner "data" gelegt werden, bevor die notebooks genutzt werden können.
 
 ## Projektbeschreibung
@@ -20,13 +19,13 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 ```
 NLP-Beschwerdeanalyse/
 ├── README.md                 # Projektbeschreibung  
-├── data/                     # Datensätze (z. B. consumer_complaints.csv)
-├── models/                   # Gespeicherte Modelle und Vektoren
-├── notebooks/                # Jupyter Notebooks  
+├── konzept.pdf               # Konzeptdokument mit Zielsetzung und Methodik  
+├── data/                     # Datensätze (z. B. consumer_complaints.csv)  
+├── notebooks/                # Explorative Analyse in Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
 │   ├── 2_Vektorisierung.ipynb  
 │   └── 3_Themenextraktion.ipynb   
-└── results/                  # Ergebnisse, Plots und Themencluster  
+└── results/                  # Ergebnisse und Themencluster  
 ```
 
 Einige Ordnerstrukturen sind nicht auf Anhieb erkennbar, diese werden im Verlauf vom ausführen des Codes, Schritt für Schritt hinzugefügt. 
@@ -34,46 +33,29 @@ Einige Ordnerstrukturen sind nicht auf Anhieb erkennbar, diese werden im Verlauf
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse
 - `data/`: Rohdaten und vorverarbeitete Datensätze | werden lokal gespeichert aufgrund der Größe
 - `results/`: Visualisierungen und Ergebnisse der Analyse
-- `models/`: verarbeitete NLP Modelle | werden lokal gespeichert aufgrund der Größe
 
-## Beschreibung der Module
-
-1. **Datenvorverarbeitung**: 
-   - Bereinigung der Rohtexte (Kleinschreibung, Entfernen von Sonderzeichen)
-   - Tokenisierung, Entfernen von Stoppwörtern und Lemmatisierung
-   - Speicherung der vorverarbeiteten Texte für weitere Analysen
-
-2. **Vektorisierung**: 
-   - TF-IDF: Gewichtung relevanter Begriffe basierend auf Häufigkeit und Seltenheit
-   - Bag-of-Words: Worthäufigkeiten für LDA-Themenmodellierung
-   - Word2Vec: Erzeugung semantisch reicher Worteinbettungen
-   - Erstellung von Dokumentenvektoren für weiteres Clustering
-
-3. **Themenextraktion**:
-   - LDA (Latent Dirichlet Allocation): Identifikation von Themen mittels Bag-of-Words
-   - LSA/SVD: Dimensionsreduktion und Themenextraktion aus TF-IDF
-   - K-Means-Clustering: Gruppierung ähnlicher Beschwerden basierend auf Word2Vec
-   - Visualisierung und Interpretation der extrahierten Themen
+## Methodik
+- **Datenvorverarbeitung**: Textreinigung, Entfernen von Stoppwörtern, Lemmatisierung
+- **Vektorisierung**: TF-IDF und BoW
+- **Themenextraktion**: Latent Semantic Analysis (LSA)
 
 ## Benötigte Bibliotheken
-**Datenverarbeitung und NLP:**
-- **pandas**: Datenverarbeitung und -manipulation
-- **numpy**: Numerische Berechnungen und Arrays
-- **nltk**: Tokenisierung, Stopwörter, Lemmatisierung
-- **spacy**: Fortgeschrittene NLP-Funktionen und Sprachmodelle
-- **re**: Reguläre Ausdrücke für Textbereinigung
 
-**Maschinelles Lernen und Vektorisierung:**
-- **scikit-learn**: TF-IDF, Vektorisierung, Clustering
-- **gensim**: Word2Vec und Topic-Modellierung
-
-**Visualisierung und Ausgabe:**
-- **matplotlib**: Erstellung von Diagrammen und Visualisierungen
-- **seaborn**: Erweiterte statistische Visualisierungen
-
-**Hilfswerkzeuge:**
-- **joblib**: Sichere Modellspeicherung und -ladung
-- **json**: Speicherung von strukturierten Daten
+| Bibliothek     | Beschreibung                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| pandas         | Datenanalyse- und Datenstruktur-Tool für tabellarische Daten.                |
+| nltk           | Natural Language Toolkit für klassische Textverarbeitung und Linguistik.     |
+| scikit-learn   | Bibliothek für maschinelles Lernen und statistische Modellierung.            |
+| gensim         | Topic Modeling und semantische Modellierung mit Word2Vec, LDA.           |
+| spacy          | Industrietaugliche NLP-Bibliothek mit Fokus auf Effizienz und Genauigkeit.   |
+| matplotlib     | Grundlegende Bibliothek zum Erstellen von statischen Visualisierungen.       |
+| seaborn        | Erweiterung von matplotlib für ansprechende statistische Visualisierungen.   |
+| numpy          | Grundlage für numerische Berechnungen und Matrizenoperationen in Python.     |
+| jupyterlab     | Web-basierte Entwicklungsumgebung für interaktives Coding und Analyse.       |
+| notebook       | Klassisches Jupyter Notebook-Interface zur interaktiven Codeausführung.      |
+| joblib         | Effizientes Serialisieren und Caching von Modellen und Arrays.               |
+| symspellpy     | Schneller Rechtschreibkorrektur-Algorithmus basierend auf Symmetric Delete.  |
+| wordcloud      | Erstellt Wortwolken zur Visualisierung der wichtigsten Begriffe in Daten.    |
 
 ## Repository klonen
 
