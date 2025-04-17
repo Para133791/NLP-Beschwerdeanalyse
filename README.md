@@ -38,7 +38,7 @@ NLP-Beschwerdeanalyse/
 Einige Ordnerstrukturen sind nicht auf Anhieb erkennbar, diese werden im Verlauf vom ausführen des Codes, Schritt für Schritt hinzugefügt. 
 
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse
-- `data/`: Rohdaten und vorverarbeitete Datensätze | werden lokal gespeichert aufgrund der Größe
+- `data/`: Rohdaten und vorverarbeitete Datensätze | werden teilweise lokal gespeichert aufgrund der Größe
 - `results/`: Visualisierungen und Ergebnisse der Analyse
 
 ## Methodik
