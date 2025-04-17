@@ -34,7 +34,7 @@ NLP-Beschwerdeanalyse/
 
 ## Methodik
 - **Datenvorverarbeitung**: Textreinigung, Entfernen von Stoppwörtern, Lemmatisierung
-- **Vektorisierung**: TF-IDF und Word2Vec
+- **Vektorisierung**: TF-IDF und BoW
 - **Themenextraktion**: Latent Semantic Analysis (LSA)
 
 ## Benötigte Bibliotheken
