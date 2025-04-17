@@ -19,7 +19,6 @@ Diese Analyse verwendet den "Customer Complaints Database" vom Consumer Financia
 ```
 NLP-Beschwerdeanalyse/
 ├── README.md                 # Projektbeschreibung  
-├── konzept.pdf               # Konzeptdokument mit Zielsetzung und Methodik  
 ├── data/                     # Datensätze (z. B. consumer_complaints.csv)  
 ├── notebooks/                # Explorative Analyse in Jupyter Notebooks  
 │   ├── 1_Datenvorverarbeitung.ipynb  
