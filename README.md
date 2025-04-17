@@ -3,6 +3,7 @@ Datenanalyse Projekt von Beschwerden im Bereich US Consumer Finance Complaints v
 
 ## Dataset
 Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
+
 Das Datenset muss heruntergeladen werden sowie die ".csv" Datei in den Ordner "data" gelegt werden, bevor die notebooks genutzt werden können.
 
 ## Projektbeschreibung
@@ -89,7 +90,6 @@ Die Analyse identifiziert die Hauptthemen in den Beschwerdetexten und visualisie
 
 Die finalen Ergebnisse der Analyse befinden sich im Ordner `results/`. Darunter:
 - Visualisierungen der Themenverteilungen
-- Interaktive LDA-Visualisierung via pyLDAvis
 - Auswertung häufiger Schlagwörter und Themencluster
 
 ## Lizenz
