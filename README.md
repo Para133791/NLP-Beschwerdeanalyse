@@ -1,6 +1,13 @@
 # NLP-Beschwerdeanalyse
 Datenanalyse Projekt von Beschwerden im Bereich US Consumer Finance Complaints von Kaggle (Uni Projekt)
 
+## Repository klonen
+Entweder über den Download Button oder per CLI
+```bash
+git clone https://github.com/Para133791/NLP-Beschwerdeanalyse.git
+cd NLP-Beschwerdeanalyse
+```
+
 ## Dataset
 Download Link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
 
@@ -31,13 +38,13 @@ NLP-Beschwerdeanalyse/
 Einige Ordnerstrukturen sind nicht auf Anhieb erkennbar, diese werden im Verlauf vom ausführen des Codes, Schritt für Schritt hinzugefügt. 
 
 - `notebooks/`: Jupyter Notebooks mit der schrittweisen Analyse
-- `data/`: Rohdaten und vorverarbeitete Datensätze | werden lokal gespeichert aufgrund der Größe
+- `data/`: Rohdaten und vorverarbeitete Datensätze | werden teilweise lokal gespeichert aufgrund der Größe
 - `results/`: Visualisierungen und Ergebnisse der Analyse
 
 ## Methodik
 - **Datenvorverarbeitung**: Textreinigung, Entfernen von Stoppwörtern, Lemmatisierung
 - **Vektorisierung**: TF-IDF und BoW
-- **Themenextraktion**: Latent Semantic Analysis (LSA)
+- **Themenextraktion**: Latent Semantic Analysis (LSA) und Latent Drichilet Allocation (LDA)
 
 ## Benötigte Bibliotheken
 
@@ -57,12 +64,6 @@ Einige Ordnerstrukturen sind nicht auf Anhieb erkennbar, diese werden im Verlauf
 | symspellpy     | Schneller Rechtschreibkorrektur-Algorithmus basierend auf Symmetric Delete.  |
 | wordcloud      | Erstellt Wortwolken zur Visualisierung der wichtigsten Begriffe in Daten.    |
 
-## Repository klonen
-
-```bash
-git clone https://github.com/Para133791/NLP-Beschwerdeanalyse.git
-cd NLP-Beschwerdeanalyse
-```
 
 ## Conda-Umgebung erstellen (optional):
 
